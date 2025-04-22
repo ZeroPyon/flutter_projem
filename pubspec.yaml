@@ -1,0 +1,112 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.2.5
+  webview_flutter: ^4.4.1
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/fit.png
+    - assets/images/linkedin_social_icon.png
+    - assets/images/facebook_icon.png
+    - assets/images/x_twitter_icon.png
+    - assets/images/instagram_icon.png
+    - assets/images/gercekrektor.png
+    - assets/images/okulunyenilogosu.png
+    - assets/images/MYO.png
+    - assets/images/topluluklar.png
+    - assets/images/takvim.png
+    - assets/images/shmy.png
+    - assets/images/lmy.png
+    - assets/images/gomy.png
+    - assets/images/gprmy.png
+    - assets/images/ezmy.png
+    - assets/images/ctbmyo.png
+    - assets/images/csbmy.png
+    - assets/images/çamy.png
+    - assets/images/bimy.png
+    - assets/images/amy.png
+    - assets/images/guby.png
+    - assets/images/ykskokl.png
+    - assets/images/zt.png
+    - assets/images/tuf.png
+    - assets/images/tıp.png
+    - assets/images/besyo.png
+    - assets/images/sibf.png
+    - assets/images/sbf.png
+    - assets/images/mf.png
+    - assets/images/mvtf.png
+    - assets/images/ivtbf.png
+    - assets/images/ilahiyatf.png
+    - assets/images/gsf.png
+    - assets/images/Facultyphoto.png
+    - assets/images/fef.png
+    - assets/images/ef.png
+    - assets/images/dhf.png
+    - assets/images/dbtf.png
+    - assets/images/caubf.png
+    - assets/images/cubf.png
+    - assets/images/bigaubf.png
+    - assets/images/bigaivibf.png
+    - assets/images/locate.png
+    - assets/images/kampushayati1.png
+    - assets/images/kampushayati2.png
+    - assets/images/comubutikhizmet.png
+    - assets/images/akademikbirimler.png
+    - assets/images/comubutik.png
+    - assets/images/comuharita.png
+    - assets/images/eczane.png
+    - assets/images/yediyirdmidort.png
+    - assets/images/rektor.png
+    - assets/images/cobiltum.png
+    - assets/images/library.png
+    - assets/images/teknopark.png
+    - assets/images/b025cc2a92f3922d5b959fc933f53a21-600x9000.png
+    - assets/images/comumedyabar1.png
+    - assets/images/comuhaberrr.png
+    - assets/images/comutv.png
+    - assets/images/comugazete.png
+    - assets/images/kampusfm.png
+    - assets/images/sosyalmedyabar.png
+    - assets/images/logo.png
+    - assets/images/comurehber.png
+    - assets/images/comukart.png
+    - assets/images/dismer.png
+    - assets/images/toplanma.png
+    - assets/images/kart.png
+    - assets/images/medya.png
+    - assets/images/emergency.png
+    - assets/images/feedback.png
+    - assets/images/socialmediacombined.png
+    - assets/images/randevual.png
+    - assets/images/sckcorba.png
+    - assets/images/hepbirlikte.png
+    - assets/images/dinner.png
+    - assets/images/comu.png
+    - assets/images/mainlogo.png
+    - assets/images/beauty.png
+    - assets/images/pharmacy.png
+    - assets/images/home.png
+    - assets/images/otobus.png
+    - assets/images/clothing.png
+
